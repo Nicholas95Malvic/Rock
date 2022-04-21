@@ -1,0 +1,23 @@
+body {
+  padding: 0 10 1;
+  text-align: center;
+  background-color: red;
+}
+h1 {
+  text-align: center;
+  font-family: 'Beau Rivage', cursive;
+  font-weight: bold;
+  font-size: 100px;
+}
+p {
+  font-family: 'Beau Rivage', cursive;
+  font-size: 80px;
+  font-weight: bold;
+}
+footer {
+  padding-bottom: 1rem;
+}
+
+.image {
+  width: 50%;
+}
